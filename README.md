@@ -1,9 +1,4 @@
 # Best Meeting Point - Wiki
-## Group Members
-*  Cimmino Fabio 807070
-*  Lotterio Roberto 807500
-*  Monti Simone 807994
-*  Puleri Gianluca 807064
 
 ## Descrizione progetto
 L’obiettivo del nostro progetto è quello di realizzare un App Android che consenta ad un gruppo di persone di organizzarsi agevolmente per incontrarsi. L’idea di questa App nasce dalla necessità, in un gruppo di persone che abitano più o meno lontano, di dover decidere il giorno ed il luogo (città e locale) in cui vedersi, venendo in contro alle esigenze e preferenze di tutti.
